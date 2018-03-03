@@ -1,12 +1,12 @@
 <?php
 
-namespace app\modules\klogportal\admin;
+namespace adip\klogportal\admin;
 
 /**
  * Klogportal Admin Module.
  *
- * File has been created with `module/create` command. 
- * 
+ * File has been created with `module/create` command.
+ *
  * @author
  * @since 1.0.0
  */

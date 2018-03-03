@@ -11,10 +11,10 @@ return [
     'modules' => [
         // ...
         'klogportalfrontend' => [
-            'class' => 'app\modules\klogportal\frontend\Module',
+            'class' => 'adip\klogportal\frontend\Module',
             'useAppViewPath' => true, // When enabled the views will be looked up in the @app/views folder, otherwise the views shipped with the module will be used.
         ],
-        'klogportaladmin' => 'app\modules\klogportal\admin\Module',
+        'klogportaladmin' => 'adip\klogportal\admin\Module',
         // ...
     ],
 ];
