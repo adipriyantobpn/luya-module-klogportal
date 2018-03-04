@@ -1,0 +1,43 @@
+{
+    "name": "adipriyantobpn/luya-module-klogportal",
+    "type": "luya-module",
+    "description": "Luya module used in portal.kamadjaja.com",
+    "keywords": [
+        "php",
+        "luya",
+        "module",
+        "cms",
+        "yii2",
+        "yii",
+        "kamadjaja",
+        "klog",
+        "portal",
+        "monarch-ui"
+    ],
+    "homepage": "https://portal.kamadjaja.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adi Priyanto",
+            "email": "adipriyanto.bpn@gmail.com"
+        }
+    ],
+    "require": {
+        "luyadev/luya-core": "~1.0.0",
+        "luyadev/luya-generic": "~1.0.0",
+        "luyadev/luya-bootstrap3": "~1.0.0",
+        "luyadev/luya-module-admin": "~1.0.0",
+        "luyadev/luya-module-cms": "~1.0.0"
+    },
+    "require-dev": {
+        "yiisoft/yii2-gii": "~2.0.0",
+        "yiisoft/yii2-debug": "~2.0.0",
+        "luyadev/luya-testsuite": "~1.0.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    },
+    "minimum-stability": "dev"
+}
